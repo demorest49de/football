@@ -30,7 +30,7 @@
 
 .main__window {
   background-image: url("../img/main/window_bg.jpg");
-  padding-top: 36px;
+  padding: 36px 90px 70px 80px;
   padding-left: 90px;
 }
 
