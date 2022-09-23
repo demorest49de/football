@@ -58,6 +58,7 @@
 
 .main__label_margin {
   padding-right: 10px;
+  margin-bottom: 0;
 }
 
 .main__block-upload {
@@ -132,6 +133,11 @@
   align-items: center;
   padding: 23px 20px;
   column-gap: 30px;
+}
+
+.main__fieldset-block{
+  display: flex;
+  align-items: center;
 }
 
 .main__input-time {
